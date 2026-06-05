@@ -1,0 +1,25 @@
+﻿timestamp,type,legumes,legumineuses,feculents,fruits,fruitsACoque,laitiers,volaille,viande,charcuterie,poisson,oeufs,snacks,fastFood,boissons,sucres,bio,reductionViande,score_legumes,score_legumineuses,score_feculents,score_fruits,score_fruitsACoque,score_laitiers,score_volaille,score_viande,score_charcuterie,score_poisson,score_oeufs,score_snacks,score_fastFood,score_boissons,score_sucres,score_bio,score_reductionViande,aliments_assiette,boisson,bons_aliments,mauvais_aliments,score_pnns,Nombre de personnes,Pratiques alimentaires,Composition du repas,En cuisine,Nombre de repas
+20260529_110413,qcm1,1 fois/jour,1 fois/sem,2 à 3 fois/sem,1 fruit/jour,2 à 3 portions/sem,1 fois/jour,4 à 6 portions/sem,4 à 6 portions/sem,1 fois/sem,1 fois/sem,1 fois/sem,1 fois/jour,1 fois/jour,4 verres/jour,1 fois/jour,Jamais,"Non, mais j'envisage de le faire prochainement et je sais comment",57,50,50,57,50,57,60,60,50,50,50,57,57,88,57,100,60,,,,,,,,,,
+20260529_110413,qcm1,1 fois/jour,1 fois/sem,2 à 3 fois/sem,1 fruit/jour,2 à 3 portions/sem,1 fois/jour,4 à 6 portions/sem,4 à 6 portions/sem,1 fois/sem,1 fois/sem,1 fois/sem,1 fois/jour,1 fois/jour,4 verres/jour,1 fois/jour,Jamais,"Non, mais j'envisage de le faire prochainement et je sais comment",57,50,50,57,50,57,60,60,50,50,50,57,57,88,57,100,60,,,,,,,,,,
+20260529_110507,qcm1,1 fois/jour,1 fois/sem,2 à 3 fois/sem,1 fruit/jour,2 à 3 portions/sem,1 fois/jour,4 à 6 portions/sem,4 à 6 portions/sem,1 fois/sem,1 fois/sem,1 fois/sem,1 fois/jour,1 fois/jour,1 verre/jour,1 fois/jour,Tous les jours ou presque,"Non, je ne vois pas l'intérêt",57,50,50,57,50,57,60,60,50,50,50,57,57,50,57,0,0,,,,,,,,,,
+20260529_110507,qcm1,1 fois/jour,1 fois/sem,2 à 3 fois/sem,1 fruit/jour,2 à 3 portions/sem,1 fois/jour,4 à 6 portions/sem,4 à 6 portions/sem,1 fois/sem,1 fois/sem,1 fois/sem,1 fois/jour,1 fois/jour,1 verre/jour,1 fois/jour,Tous les jours ou presque,"Non, je ne vois pas l'intérêt",57,50,50,57,50,57,60,60,50,50,50,57,57,50,57,0,0,,,,,,,,,,
+20260529_112852,qcm1,1 fois/jour,1 fois/sem,2 à 3 fois/sem,1 fruit/jour,2 à 3 portions/sem,1 fois/jour,4 à 6 portions/sem,4 à 6 portions/sem,1 fois/sem,1 fois/sem,1 fois/sem,1 fois/jour,1 fois/jour,1 verre/jour,1 fois/jour,Tous les jours ou presque,"Non, je ne vois pas l'intérêt",57,50,50,57,50,57,60,60,50,50,50,57,57,50,57,0,0,,,,,,,,,,
+20260529_112853,qcm1,1 fois/jour,1 fois/sem,2 à 3 fois/sem,1 fruit/jour,2 à 3 portions/sem,1 fois/jour,4 à 6 portions/sem,4 à 6 portions/sem,1 fois/sem,1 fois/sem,1 fois/sem,1 fois/jour,1 fois/jour,1 verre/jour,1 fois/jour,Tous les jours ou presque,"Non, je ne vois pas l'intérêt",57,50,50,57,50,57,60,60,50,50,50,57,57,50,57,0,0,,,,,,,,,,
+20260529_113012,minijeu,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Oeuf, Viande, Légumes, Fruits",Eau,,,100,,,,,
+20260529_113150,minijeu,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Fruits, Légumes, Féculents, Poisson",Eau,,,100,,,,,
+20260529_113151,minijeu,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Fruits, Légumes, Féculents, Poisson",Eau,,,100,,,,,
+20260529_113152,minijeu,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Fruits, Légumes, Féculents, Poisson",Eau,,,100,,,,,
+20260529_113153,minijeu,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Fruits, Légumes, Féculents, Poisson",Eau,,,100,,,,,
+20260529_113205,minijeu,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Oeuf, Fruits, Féculents, Fromage",Lait,,,100,,,,,
+20260529_113407,minijeu,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Oeuf, Fruits, Féculents, Fromage",Lait,,,100,,,,,
+20260529_114315,qcm2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2 personnes,Je mange sans porc,Plat + Dessert,J'aime y passer du temps,Midi et soir
+20260529_114315,qcm2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2 personnes,Je mange sans porc,Plat + Dessert,J'aime y passer du temps,Midi et soir
+20260529_114322,qcm2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2 personnes,"Non, je mange de tout",Plat + Dessert,J'aime y passer du temps,Midi et soir
+20260529_114322,qcm2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2 personnes,"Non, je mange de tout",Plat + Dessert,J'aime y passer du temps,Midi et soir
+20260529_153227,minijeu,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Fruits, Oeuf, Viande, Fromage, Légum. secs",Eau,"Fruits, Oeuf, Viande, Fromage, Légum. secs",,100,,,,,
+20260602_113745,qcm2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2 personnes,"Non, je mange de tout",Plat + Dessert,J'aime y passer du temps,Midi et soir
+20260602_113745,qcm2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2 personnes,"Non, je mange de tout",Plat + Dessert,J'aime y passer du temps,Midi et soir
+20260602_113745,qcm2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2 personnes,"Non, je mange de tout",Plat + Dessert,J'aime y passer du temps,Midi et soir
+02/06/2026 11:53:47,qcm2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2 personnes,Je mange sans porc,Entrée + Plat + Dessert,Je n'ai pas le temps,Soir uniquement
+02/06/2026 11:53:47,qcm2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2 personnes,Je mange sans porc,Entrée + Plat + Dessert,Je n'ai pas le temps,Soir uniquement
+02/06/2026 11:53:47,qcm2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2 personnes,Je mange sans porc,Entrée + Plat + Dessert,Je n'ai pas le temps,Soir uniquement
