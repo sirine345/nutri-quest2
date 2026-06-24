@@ -40,14 +40,12 @@ QUESTIONS_QCM2 = {
 }
  
 # ══ Connexion PostgreSQL ══
+import os
+
 def get_db():
-    conn = psycopg2.connect(
-        host="localhost",
-        database="nutri_quest",
-        user="postgres",
-        password="F.zhi5",
-        port="5432"
-    )
+    conn = psycopg2.connect(os.environ.get("DATABASE_URL"))
+    conn.set_client_encoding('UTF8')
+    return conn
     conn.set_client_encoding('UTF8')
     return conn
  
