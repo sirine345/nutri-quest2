@@ -13,15 +13,7 @@ from datetime import datetime
 import psycopg2
 
 def get_conn():
-    import ctypes
-    ctypes.windll.kernel32.SetFileApisToOEM()
-    return psycopg2.connect(
-        host="localhost",
-        dbname="nutri_quest",
-        user="postgres",
-        password="F.zhi5",
-        options="-c client_encoding=UTF8"
-    )
+    return psycopg2.connect("postgresql://nutri_quest_db_user:Om1ZcZSRYn6MNa8KhXCW1tYk9A6HrACZ@dpg-d8u5fbeq1p3s73cb89ng-a/nutri_quest_db")
 
 engine = create_engine("postgresql+psycopg2://", creator=get_conn)
 
