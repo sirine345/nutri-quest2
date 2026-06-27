@@ -1,0 +1,825 @@
+{
+  "sirineee.bahij@gmail.com": {
+    "password": "6eb2480059f836e582cbc470cfde96909fceba0118236a32ccc13d85e536d3cf",
+    "prenom": "SIRINE",
+    "sexe": "Fille",
+    "age": "22",
+    "taille": "170",
+    "poids": "70",
+    "restriction": [
+      "Aucune"
+    ],
+    "created_at": "12/06/2026 15:35:25",
+    "sessions": [
+      {
+        "timestamp": "12/06/2026 15:35:51",
+        "type": "qcm1",
+        "data": {
+          "answers": [
+            {
+              "id": "legumes",
+              "value": 4,
+              "label": "1 fois/jour"
+            },
+            {
+              "id": "legumineuses",
+              "value": 3,
+              "label": "1 fois/sem"
+            },
+            {
+              "id": "feculents",
+              "value": 2,
+              "label": "2 à 3 fois/sem"
+            },
+            {
+              "id": "fruits",
+              "value": 4,
+              "label": "1 fruit/jour"
+            },
+            {
+              "id": "fruitsACoque",
+              "value": 2,
+              "label": "2 à 3 portions/sem"
+            },
+            {
+              "id": "laitiers",
+              "value": 4,
+              "label": "1 fois/jour"
+            },
+            {
+              "id": "volaille",
+              "value": 3,
+              "label": "4 à 6 portions/sem"
+            },
+            {
+              "id": "viande",
+              "value": 3,
+              "label": "4 à 6 portions/sem"
+            },
+            {
+              "id": "charcuterie",
+              "value": 3,
+              "label": "1 fois/sem"
+            },
+            {
+              "id": "poisson",
+              "value": 3,
+              "label": "1 fois/sem"
+            },
+            {
+              "id": "oeufs",
+              "value": 3,
+              "label": "1 fois/sem"
+            },
+            {
+              "id": "snacks",
+              "value": 4,
+              "label": "1 fois/jour"
+            },
+            {
+              "id": "fastFood",
+              "value": 4,
+              "label": "1 fois/jour"
+            },
+            {
+              "id": "boissons",
+              "value": 5,
+              "label": "2 verres/jour"
+            },
+            {
+              "id": "sucres",
+              "value": 4,
+              "label": "1 fois/jour"
+            },
+            {
+              "id": "bio",
+              "value": 1,
+              "label": "Souvent"
+            },
+            {
+              "id": "reductionViande",
+              "value": 2,
+              "label": "Non, mais j'envisage de le faire prochainement et je sais comment"
+            }
+          ],
+          "nutrition": {
+            "legumes": 57,
+            "legumineuses": 50,
+            "feculents": 50,
+            "fruits": 57,
+            "fruitsACoque": 50,
+            "laitiers": 57,
+            "volaille": 60,
+            "viande": 60,
+            "charcuterie": 50,
+            "poisson": 50,
+            "oeufs": 50,
+            "snacks": 57,
+            "fastFood": 57,
+            "boissons": 63,
+            "sucres": 57,
+            "bio": 33,
+            "reductionViande": 60
+          },
+          "patient": {
+            "prenom": "",
+            "email": "sirineee.bahij@gmail.com",
+            "status": "ok",
+            "sexe": "",
+            "age": "",
+            "taille": "",
+            "poids": "",
+            "restriction": []
+          }
+        }
+      },
+      {
+        "timestamp": "12/06/2026 15:35:51",
+        "type": "qcm1",
+        "data": {
+          "answers": [
+            {
+              "id": "legumes",
+              "value": 4,
+              "label": "1 fois/jour"
+            },
+            {
+              "id": "legumineuses",
+              "value": 3,
+              "label": "1 fois/sem"
+            },
+            {
+              "id": "feculents",
+              "value": 2,
+              "label": "2 à 3 fois/sem"
+            },
+            {
+              "id": "fruits",
+              "value": 4,
+              "label": "1 fruit/jour"
+            },
+            {
+              "id": "fruitsACoque",
+              "value": 2,
+              "label": "2 à 3 portions/sem"
+            },
+            {
+              "id": "laitiers",
+              "value": 4,
+              "label": "1 fois/jour"
+            },
+            {
+              "id": "volaille",
+              "value": 3,
+              "label": "4 à 6 portions/sem"
+            },
+            {
+              "id": "viande",
+              "value": 3,
+              "label": "4 à 6 portions/sem"
+            },
+            {
+              "id": "charcuterie",
+              "value": 3,
+              "label": "1 fois/sem"
+            },
+            {
+              "id": "poisson",
+              "value": 3,
+              "label": "1 fois/sem"
+            },
+            {
+              "id": "oeufs",
+              "value": 3,
+              "label": "1 fois/sem"
+            },
+            {
+              "id": "snacks",
+              "value": 4,
+              "label": "1 fois/jour"
+            },
+            {
+              "id": "fastFood",
+              "value": 4,
+              "label": "1 fois/jour"
+            },
+            {
+              "id": "boissons",
+              "value": 5,
+              "label": "2 verres/jour"
+            },
+            {
+              "id": "sucres",
+              "value": 4,
+              "label": "1 fois/jour"
+            },
+            {
+              "id": "bio",
+              "value": 1,
+              "label": "Souvent"
+            },
+            {
+              "id": "reductionViande",
+              "value": 2,
+              "label": "Non, mais j'envisage de le faire prochainement et je sais comment"
+            }
+          ],
+          "nutrition": {
+            "legumes": 57,
+            "legumineuses": 50,
+            "feculents": 50,
+            "fruits": 57,
+            "fruitsACoque": 50,
+            "laitiers": 57,
+            "volaille": 60,
+            "viande": 60,
+            "charcuterie": 50,
+            "poisson": 50,
+            "oeufs": 50,
+            "snacks": 57,
+            "fastFood": 57,
+            "boissons": 63,
+            "sucres": 57,
+            "bio": 33,
+            "reductionViande": 60
+          },
+          "patient": {
+            "prenom": "",
+            "email": "sirineee.bahij@gmail.com",
+            "status": "ok",
+            "sexe": "",
+            "age": "",
+            "taille": "",
+            "poids": "",
+            "restriction": []
+          }
+        }
+      },
+      {
+        "timestamp": "12/06/2026 15:35:51",
+        "type": "qcm1",
+        "data": {
+          "answers": [
+            {
+              "id": "legumes",
+              "value": 4,
+              "label": "1 fois/jour"
+            },
+            {
+              "id": "legumineuses",
+              "value": 3,
+              "label": "1 fois/sem"
+            },
+            {
+              "id": "feculents",
+              "value": 2,
+              "label": "2 à 3 fois/sem"
+            },
+            {
+              "id": "fruits",
+              "value": 4,
+              "label": "1 fruit/jour"
+            },
+            {
+              "id": "fruitsACoque",
+              "value": 2,
+              "label": "2 à 3 portions/sem"
+            },
+            {
+              "id": "laitiers",
+              "value": 4,
+              "label": "1 fois/jour"
+            },
+            {
+              "id": "volaille",
+              "value": 3,
+              "label": "4 à 6 portions/sem"
+            },
+            {
+              "id": "viande",
+              "value": 3,
+              "label": "4 à 6 portions/sem"
+            },
+            {
+              "id": "charcuterie",
+              "value": 3,
+              "label": "1 fois/sem"
+            },
+            {
+              "id": "poisson",
+              "value": 3,
+              "label": "1 fois/sem"
+            },
+            {
+              "id": "oeufs",
+              "value": 3,
+              "label": "1 fois/sem"
+            },
+            {
+              "id": "snacks",
+              "value": 4,
+              "label": "1 fois/jour"
+            },
+            {
+              "id": "fastFood",
+              "value": 4,
+              "label": "1 fois/jour"
+            },
+            {
+              "id": "boissons",
+              "value": 5,
+              "label": "2 verres/jour"
+            },
+            {
+              "id": "sucres",
+              "value": 4,
+              "label": "1 fois/jour"
+            },
+            {
+              "id": "bio",
+              "value": 1,
+              "label": "Souvent"
+            },
+            {
+              "id": "reductionViande",
+              "value": 2,
+              "label": "Non, mais j'envisage de le faire prochainement et je sais comment"
+            }
+          ],
+          "nutrition": {
+            "legumes": 57,
+            "legumineuses": 50,
+            "feculents": 50,
+            "fruits": 57,
+            "fruitsACoque": 50,
+            "laitiers": 57,
+            "volaille": 60,
+            "viande": 60,
+            "charcuterie": 50,
+            "poisson": 50,
+            "oeufs": 50,
+            "snacks": 57,
+            "fastFood": 57,
+            "boissons": 63,
+            "sucres": 57,
+            "bio": 33,
+            "reductionViande": 60
+          },
+          "patient": {
+            "prenom": "",
+            "email": "sirineee.bahij@gmail.com",
+            "status": "ok",
+            "sexe": "",
+            "age": "",
+            "taille": "",
+            "poids": "",
+            "restriction": []
+          }
+        }
+      },
+      {
+        "timestamp": "12/06/2026 15:35:52",
+        "type": "qcm1",
+        "data": {
+          "answers": [
+            {
+              "id": "legumes",
+              "value": 4,
+              "label": "1 fois/jour"
+            },
+            {
+              "id": "legumineuses",
+              "value": 3,
+              "label": "1 fois/sem"
+            },
+            {
+              "id": "feculents",
+              "value": 2,
+              "label": "2 à 3 fois/sem"
+            },
+            {
+              "id": "fruits",
+              "value": 4,
+              "label": "1 fruit/jour"
+            },
+            {
+              "id": "fruitsACoque",
+              "value": 2,
+              "label": "2 à 3 portions/sem"
+            },
+            {
+              "id": "laitiers",
+              "value": 4,
+              "label": "1 fois/jour"
+            },
+            {
+              "id": "volaille",
+              "value": 3,
+              "label": "4 à 6 portions/sem"
+            },
+            {
+              "id": "viande",
+              "value": 3,
+              "label": "4 à 6 portions/sem"
+            },
+            {
+              "id": "charcuterie",
+              "value": 3,
+              "label": "1 fois/sem"
+            },
+            {
+              "id": "poisson",
+              "value": 3,
+              "label": "1 fois/sem"
+            },
+            {
+              "id": "oeufs",
+              "value": 3,
+              "label": "1 fois/sem"
+            },
+            {
+              "id": "snacks",
+              "value": 4,
+              "label": "1 fois/jour"
+            },
+            {
+              "id": "fastFood",
+              "value": 4,
+              "label": "1 fois/jour"
+            },
+            {
+              "id": "boissons",
+              "value": 5,
+              "label": "2 verres/jour"
+            },
+            {
+              "id": "sucres",
+              "value": 4,
+              "label": "1 fois/jour"
+            },
+            {
+              "id": "bio",
+              "value": 1,
+              "label": "Souvent"
+            },
+            {
+              "id": "reductionViande",
+              "value": 2,
+              "label": "Non, mais j'envisage de le faire prochainement et je sais comment"
+            }
+          ],
+          "nutrition": {
+            "legumes": 57,
+            "legumineuses": 50,
+            "feculents": 50,
+            "fruits": 57,
+            "fruitsACoque": 50,
+            "laitiers": 57,
+            "volaille": 60,
+            "viande": 60,
+            "charcuterie": 50,
+            "poisson": 50,
+            "oeufs": 50,
+            "snacks": 57,
+            "fastFood": 57,
+            "boissons": 63,
+            "sucres": 57,
+            "bio": 33,
+            "reductionViande": 60
+          },
+          "patient": {
+            "prenom": "",
+            "email": "sirineee.bahij@gmail.com",
+            "status": "ok",
+            "sexe": "",
+            "age": "",
+            "taille": "",
+            "poids": "",
+            "restriction": []
+          }
+        }
+      },
+      {
+        "timestamp": "12/06/2026 15:36:08",
+        "type": "qcm2",
+        "data": {
+          "answers": {
+            " Nombre de personnes": "2 personnes",
+            " Pratiques alimentaires": "Non, je mange de tout",
+            " Composition du repas": "Entrée + Plat + Dessert",
+            "‍ En cuisine": "J'aime y passer du temps",
+            " Nombre de repas": "Midi et soir"
+          },
+          "patient": {
+            "prenom": "",
+            "email": "sirineee.bahij@gmail.com",
+            "status": "ok",
+            "sexe": "",
+            "age": "",
+            "taille": "",
+            "poids": "",
+            "restriction": []
+          }
+        }
+      },
+      {
+        "timestamp": "12/06/2026 15:36:08",
+        "type": "qcm2",
+        "data": {
+          "answers": {
+            " Nombre de personnes": "2 personnes",
+            " Pratiques alimentaires": "Non, je mange de tout",
+            " Composition du repas": "Entrée + Plat + Dessert",
+            "‍ En cuisine": "J'aime y passer du temps",
+            " Nombre de repas": "Midi et soir"
+          },
+          "patient": {
+            "prenom": "",
+            "email": "sirineee.bahij@gmail.com",
+            "status": "ok",
+            "sexe": "",
+            "age": "",
+            "taille": "",
+            "poids": "",
+            "restriction": []
+          }
+        }
+      },
+      {
+        "timestamp": "12/06/2026 15:46:30",
+        "type": "qcm2",
+        "data": {
+          "answers": {
+            " Nombre de personnes": "2 personnes",
+            " Pratiques alimentaires": "Non, je mange de tout",
+            " Composition du repas": "Entrée + Plat + Dessert",
+            "‍ En cuisine": "J'aime y passer du temps",
+            " Nombre de repas": "Midi et soir"
+          },
+          "patient": {
+            "prenom": "SIRINE",
+            "sexe": "Fille",
+            "age": "22",
+            "taille": "170",
+            "poids": "70",
+            "restriction": [
+              "Aucune"
+            ],
+            "email": "sirineee.bahij@gmail.com"
+          }
+        }
+      },
+      {
+        "timestamp": "12/06/2026 15:46:30",
+        "type": "qcm2",
+        "data": {
+          "answers": {
+            " Nombre de personnes": "2 personnes",
+            " Pratiques alimentaires": "Non, je mange de tout",
+            " Composition du repas": "Entrée + Plat + Dessert",
+            "‍ En cuisine": "J'aime y passer du temps",
+            " Nombre de repas": "Midi et soir"
+          },
+          "patient": {
+            "prenom": "SIRINE",
+            "sexe": "Fille",
+            "age": "22",
+            "taille": "170",
+            "poids": "70",
+            "restriction": [
+              "Aucune"
+            ],
+            "email": "sirineee.bahij@gmail.com"
+          }
+        }
+      },
+      {
+        "timestamp": "12/06/2026 15:49:02",
+        "type": "qcm2",
+        "data": {
+          "answers": {
+            " Nombre de personnes": "2 personnes",
+            " Pratiques alimentaires": "Non, je mange de tout",
+            " Composition du repas": "Entrée + Plat + Dessert",
+            "‍ En cuisine": "J'aime y passer du temps",
+            " Nombre de repas": "Midi et soir"
+          },
+          "patient": {
+            "prenom": "SIRINE",
+            "sexe": "Fille",
+            "age": "22",
+            "taille": "170",
+            "poids": "70",
+            "restriction": [
+              "Aucune"
+            ],
+            "email": "sirineee.bahij@gmail.com"
+          }
+        }
+      },
+      {
+        "timestamp": "12/06/2026 15:49:02",
+        "type": "qcm2",
+        "data": {
+          "answers": {
+            " Nombre de personnes": "2 personnes",
+            " Pratiques alimentaires": "Non, je mange de tout",
+            " Composition du repas": "Entrée + Plat + Dessert",
+            "‍ En cuisine": "J'aime y passer du temps",
+            " Nombre de repas": "Midi et soir"
+          },
+          "patient": {
+            "prenom": "SIRINE",
+            "sexe": "Fille",
+            "age": "22",
+            "taille": "170",
+            "poids": "70",
+            "restriction": [
+              "Aucune"
+            ],
+            "email": "sirineee.bahij@gmail.com"
+          }
+        }
+      },
+      {
+        "timestamp": "12/06/2026 15:51:08",
+        "type": "qcm2",
+        "data": {
+          "answers": {
+            " Nombre de personnes": "2 personnes",
+            " Pratiques alimentaires": "Non, je mange de tout",
+            " Composition du repas": "Entrée + Plat + Dessert",
+            "‍ En cuisine": "Je n'ai pas le temps",
+            " Nombre de repas": "Midi et soir"
+          },
+          "patient": {
+            "prenom": "SIRINE",
+            "sexe": "Fille",
+            "age": "22",
+            "taille": "170",
+            "poids": "70",
+            "restriction": [
+              "Aucune"
+            ],
+            "email": "sirineee.bahij@gmail.com"
+          }
+        }
+      },
+      {
+        "timestamp": "12/06/2026 15:51:09",
+        "type": "qcm2",
+        "data": {
+          "answers": {
+            " Nombre de personnes": "2 personnes",
+            " Pratiques alimentaires": "Non, je mange de tout",
+            " Composition du repas": "Entrée + Plat + Dessert",
+            "‍ En cuisine": "Je n'ai pas le temps",
+            " Nombre de repas": "Midi et soir"
+          },
+          "patient": {
+            "prenom": "SIRINE",
+            "sexe": "Fille",
+            "age": "22",
+            "taille": "170",
+            "poids": "70",
+            "restriction": [
+              "Aucune"
+            ],
+            "email": "sirineee.bahij@gmail.com"
+          }
+        }
+      },
+      {
+        "timestamp": "12/06/2026 16:12:09",
+        "type": "qcm2_mna",
+        "data": {
+          "answers": {
+            " Nombre de personnes": "2 personnes",
+            " Pratiques alimentaires": "Non, je mange de tout",
+            " Composition du repas": "Entrée + Plat + Dessert",
+            "‍ En cuisine": "J'aime y passer du temps",
+            " Nombre de repas": "Soir uniquement"
+          },
+          "mna": {
+            "depistage": 10,
+            "globale": 11,
+            "total": 21,
+            "label": "Risque de malnutrition"
+          },
+          "patient": {
+            "prenom": "SIRINE",
+            "sexe": "Fille",
+            "age": "22",
+            "taille": "170",
+            "poids": "70",
+            "restriction": [
+              "Aucune"
+            ],
+            "email": "sirineee.bahij@gmail.com"
+          }
+        }
+      },
+      {
+        "timestamp": "12/06/2026 16:12:10",
+        "type": "qcm2",
+        "data": {
+          "answers": {
+            " Nombre de personnes": "2 personnes",
+            " Pratiques alimentaires": "Non, je mange de tout",
+            " Composition du repas": "Entrée + Plat + Dessert",
+            "‍ En cuisine": "J'aime y passer du temps",
+            " Nombre de repas": "Soir uniquement"
+          },
+          "patient": {
+            "prenom": "SIRINE",
+            "sexe": "Fille",
+            "age": "22",
+            "taille": "170",
+            "poids": "70",
+            "restriction": [
+              "Aucune"
+            ],
+            "email": "sirineee.bahij@gmail.com"
+          }
+        }
+      },
+      {
+        "timestamp": "12/06/2026 16:14:01",
+        "type": "qcm2",
+        "data": {
+          "answers": {
+            " Nombre de personnes": "2 personnes",
+            " Pratiques alimentaires": "Non, je mange de tout",
+            " Composition du repas": "Entrée + Plat + Dessert",
+            "‍ En cuisine": "J'aime y passer du temps",
+            " Nombre de repas": "Midi et soir"
+          },
+          "patient": {
+            "prenom": "SIRINE",
+            "email": "sirineee.bahij@gmail.com",
+            "status": "ok",
+            "sexe": "Fille",
+            "age": "22",
+            "taille": "170",
+            "poids": "70",
+            "restriction": [
+              "Aucune"
+            ]
+          }
+        }
+      },
+      {
+        "timestamp": "12/06/2026 16:14:01",
+        "type": "qcm2",
+        "data": {
+          "answers": {
+            " Nombre de personnes": "2 personnes",
+            " Pratiques alimentaires": "Non, je mange de tout",
+            " Composition du repas": "Entrée + Plat + Dessert",
+            "‍ En cuisine": "J'aime y passer du temps",
+            " Nombre de repas": "Midi et soir"
+          },
+          "patient": {
+            "prenom": "SIRINE",
+            "email": "sirineee.bahij@gmail.com",
+            "status": "ok",
+            "sexe": "Fille",
+            "age": "22",
+            "taille": "170",
+            "poids": "70",
+            "restriction": [
+              "Aucune"
+            ]
+          }
+        }
+      },
+      {
+        "timestamp": "12/06/2026 16:14:22",
+        "type": "qcm_sante",
+        "data": {
+          "age": "60 à 74 ans",
+          "sexe": "Femme",
+          "silhouette": 4,
+          "evolution": "Un peu plus mince",
+          "seul": "Oui",
+          "autonomie": "Courses seulement",
+          "maladieChroniqueOui": "Oui",
+          "pathologies": [
+            "Cancer (autre)"
+          ],
+          "traitement": "Oui",
+          "regimePrescrit": "Oui",
+          "modeVie": "Très actif",
+          "freins": [
+            "Problème de santé"
+          ],
+          "medasResult": null,
+          "patient": {
+            "prenom": "SIRINE",
+            "email": "sirineee.bahij@gmail.com"
+          }
+        }
+      }
+    ]
+  }
+}
