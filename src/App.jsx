@@ -75,7 +75,7 @@ const GlobalStyles = () => null;
 /* ══ saveGame ══ */
 const saveGame = async (data) => {
   try {
-    const res = await fetch("http://127.0.0.1:8000/save", {
+    const res = await fetch("https://nutri-quest2.onrender.com/save", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify(data)
@@ -370,7 +370,7 @@ function NameScreen({ onConfirm, onGuest }) {
     if (!email.trim() || !password.trim()) return;
     setLoading(true); setError("");
     try {
-      const res = await fetch("http://127.0.0.1:8000/login", {
+      const res = await fetch("https://nutri-quest2.onrender.com/login", {
         method:"POST", headers:{"Content-Type":"application/json"},
         body: JSON.stringify({ email, password })
       });
@@ -389,7 +389,7 @@ function NameScreen({ onConfirm, onGuest }) {
     if (regPassword !== regPassword2) { setError("Les mots de passe ne correspondent pas"); return; }
     setLoading(true); setError("");
     try {
-      const res = await fetch("http://127.0.0.1:8000/register", {
+      const res = await fetch("https://nutri-quest2.onrender.com/register", {
         method:"POST", headers:{"Content-Type":"application/json"},
         body: JSON.stringify({ email: regEmail, password: regPassword })
       });
@@ -405,7 +405,7 @@ function NameScreen({ onConfirm, onGuest }) {
 
   return (
     <div style={{ position:"fixed", inset:0, background:"#f4dcbf", fontFamily:"Arial, sans-serif", display:"flex", flexDirection:"column", alignItems:"center", justifyContent:"center", padding:"20px" }}>
-      <button onClick={() => window.open("http://127.0.0.1:8000/dashboard?pwd=Sirine1234", "_blank")}
+      <button onClick={() => window.open("https://nutri-quest2.onrender.com/dashboard?pwd=Sirine1234", "_blank")}
         style={{ position:"fixed", top:16, right:16, background:"#333", color:"white", border:"none", borderRadius:10, padding:"8px 18px", fontSize:13, fontWeight:800, cursor:"pointer", zIndex:100 }}>
          Gestionnaire
       </button>
@@ -505,7 +505,7 @@ function HamburgerMenu({ playerName, playerInfos, onSaveProfile, isGuest }) {
     const infos = { sexe, age, taille, poids, restriction, email: playerInfos?.email };
     if (playerInfos?.email) {
       try {
-        await fetch("http://127.0.0.1:8000/update_profile", {
+        await fetch("https://nutri-quest2.onrender.com/update_profile", {
           method:"POST", headers:{"Content-Type":"application/json"},
           body: JSON.stringify({ email: playerInfos.email, prenom: name, sexe, age, taille, poids, restriction })
         });
@@ -3987,7 +3987,7 @@ function DashboardScreen({ onBack, playerName }) {
   const chartsRef = useRef({});
 
   useEffect(() => {
-    fetch("http://127.0.0.1:8000/dashboard/stats")
+    fetch("https://nutri-quest2.onrender.com/dashboard/stats")
       .then(r => r.json())
       .then(d => { setData(d); setLoading(false); })
       .catch(() => { setError("Impossible de charger les donnees."); setLoading(false); });
@@ -4042,7 +4042,7 @@ function DashboardScreen({ onBack, playerName }) {
     }
   }
 
-  const exportData = (fmt) => window.open("http://127.0.0.1:8000/export/"+fmt, "_blank");
+  const exportData = (fmt) => window.open("https://nutri-quest2.onrender.com/export/"+fmt, "_blank");
   const SC = ({ icon, label, value, color="#FA8072", sub }) => (
     <div style={{ background:"white", borderRadius:16, padding:"18px 20px", border:"2px solid "+color+"33", boxShadow:"0 2px 12px rgba(0,0,0,0.06)", display:"flex", flexDirection:"column", gap:6 }}>
       <div style={{ fontSize:26 }}>{icon}</div>
